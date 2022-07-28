@@ -9,6 +9,7 @@ I am always passionate about giving more to the community, and sharing knowledge
 
 - 🔭 I’m currently working on an Electron app for project management and note taking.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarvadn/)](https://www.linkedin.com/in/sagarvadn/)
+- ⚡ Hit me up for collaborations.
 
 
 ## 1. GitHub Stats
