@@ -1,5 +1,5 @@
 ### Hi there, I'm Sagar Vadnere. 👋
-A Software Engineer with 6+ years of experience specializing in full stack web development, JavaScript, and React.
+A Software Engineer with 6+ years of experience specializing in full stack web development with Node JS, Next JS, Mongo DB, and React.
 
 I write code to build scalable, robust, and secure websites. I also like to solve production bugs with high severity. Recently, I have been helping clients to fix technical SEO issues to improve page speed insights scores and overall website performance.
 
