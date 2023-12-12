@@ -1,13 +1,15 @@
 ### Hi there, I'm Sagar Vadnere. 👋
-A Software Engineer with 7+ years of experience specializing in full stack web development with Node JS, Next JS, Mongo DB, and React.
+With over 7.5 years of experience as a Web Developer, I specialize in JavaScript, React, and Next.js. My focus is on crafting user-centric web applications that excel in performance and user experience.
 
-I write code to build scalable, robust, and secure websites. I also like to solve production bugs with high severity. Recently, I have been helping clients to fix technical SEO issues to improve page speed insights scores and overall website performance.
+I have a knack for staying updated with the latest trends in front-end development, allowing me to create sleek and responsive interfaces. Proficient in Git, HTML, and CSS, I bring a comprehensive approach to development, ensuring code quality and adherence to industry standards.
 
-I write scripts in Python to automate any manual work for me or my colleagues. I have also had some experience in hardening web servers and penetration testing for websites. I have always been an enthusiast for Cyber Security, and Open Source technologies. 
+My expertise extends to full-stack applications, where I've seamlessly integrated React, Next.js, Node.js, and MongoDB. I actively participate in code reviews, offering constructive feedback to foster a collaborative and growth-oriented environment.
 
-I am always passionate about giving more to the community, and sharing knowledge has always motivated me. I am curious about how technology is changing the world.
+My passion lies in optimizing website performance, consistently striving to enhance speed and usability. I'm eager to contribute my skills to innovative projects and explore new opportunities in web development.
 
-- 🔭 I’m currently working on an Electron app for project management and note taking.
+Let's connect and explore how we can collaborate on exciting ventures in the digital space.
+
+- 🔭 I’m currently working on a Stock Portfolio for personal finance management and monitoring.
 - 📫 You can reach to me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarvadn/)](https://www.linkedin.com/in/sagarvadn/)
 - ⚡ Hit me up for collaborations.
 - 💻 [Website](https://www.sagarvadnere.me/)
