@@ -1,5 +1,5 @@
 ### Hi there, I'm Sagar Vadnere. 👋
-With over 8 years of experience as a Web Developer, I specialize in JavaScript, React, and Next.js. My focus is on crafting user-centric web applications that excel in performance and user experience.
+With over 8.5 years of experience as a Web Developer, I specialize in JavaScript, React, and Next.js. My focus is on crafting user-centric web applications that excel in performance and user experience.
 
 I have a knack for staying updated with the latest trends in front-end development, allowing me to create sleek and responsive interfaces. Proficient in Git, HTML, and CSS, I bring a comprehensive approach to development, ensuring code quality and adherence to industry standards.
 
