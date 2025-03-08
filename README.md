@@ -5,7 +5,7 @@ I have a knack for staying updated with the latest trends in front-end developme
 
 My expertise extends to full-stack applications, where I've seamlessly integrated React, Next.js, Node.js, and MongoDB. I actively participate in code reviews, offering constructive feedback to foster a collaborative and growth-oriented environment.
 
-My passion lies in optimizing website performance, consistently striving to enhance speed and usability. I'm eager to contribute my skills to innovative projects and explore new opportunities in web development.
+My passion lies in optimizing website performance, and consistently enhancing speed and usability. I'm eager to contribute my skills to innovative projects and explore new opportunities in web development.
 
 Let's connect and explore how we can collaborate on exciting ventures in the digital space.
 
@@ -18,7 +18,7 @@ Let's connect and explore how we can collaborate on exciting ventures in the dig
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sagarvadn&show_icons=true)
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarvadn&theme=blue-green)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarvadn&theme=blue-green) -->
 ![sagarvadn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarvadn&theme=default&show_icons=true&hide_border=false&layout=compact)
 ## 3. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sagarvadn)
