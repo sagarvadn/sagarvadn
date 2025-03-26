@@ -1,5 +1,5 @@
 ### Hi there, I'm Sagar Vadnere. 👋
-With over 8.5 years of experience as a Web Developer, I specialize in JavaScript, React, and Next.js. My focus is on crafting user-centric web applications that excel in performance and user experience.
+With over 8.6 years of experience as a Web Developer, I specialize in JavaScript, React, and Next.js. My focus is on crafting user-centric web applications that excel in performance and user experience.
 
 I have a knack for staying updated with the latest trends in front-end development, allowing me to create sleek and responsive interfaces. Proficient in Git, HTML, and CSS, I bring a comprehensive approach to development, ensuring code quality and adherence to industry standards.
 
@@ -15,13 +15,16 @@ Let's connect and explore how we can collaborate on exciting ventures in the dig
 - 💻 [Website](https://www.sagarvadnere.me/)
 
 
-## 1. GitHub Stats
+## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sagarvadn&show_icons=true)
-## 2. Most Used Languages
+## Most Used Languages
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarvadn&theme=blue-green) -->
 ![sagarvadn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarvadn&theme=default&show_icons=true&hide_border=false&layout=compact)
-## 3. Profile View Counter
+## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sagarvadn)
+## 🏆 GitHub Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=sagarvadn&column=3&margin-w=15&margin-h=15&no-bg=true&rank=SSS,S,AAA,AA,A" alt="GitHub Trophies" />
+
 
 
 
