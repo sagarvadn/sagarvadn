@@ -9,7 +9,7 @@ My passion lies in optimizing website performance, and consistently enhancing sp
 
 Let's connect and explore how we can collaborate on exciting ventures in the digital space.
 
-- 🔭 I’m currently working on a Stock Portfolio for personal finance management and monitoring.
+- 🔭 I'm currently crafting cutting-edge AI agents.
 - 📫 You can reach to me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarvadn/)](https://www.linkedin.com/in/sagarvadn/)
 - ⚡ Hit me up for collaborations.
 - 💻 [Website](https://www.sagarvadnere.me/)
