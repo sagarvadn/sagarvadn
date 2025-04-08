@@ -1,13 +1,13 @@
 ### Hi there, I'm Sagar Vadnere. 👋
-With over 8.6 years of experience as a Web Developer, I specialize in JavaScript, React, and Next.js. My focus is on crafting user-centric web applications that excel in performance and user experience.
+I specialize in building intelligent AI agents using Large Language Models (LLMs) and Next.js, creating dynamic and agentic flows that offer personalized, interactive experiences. With over 8.6 years of experience as a Web Developer, I also have strong expertise in JavaScript, React, and Next.js, crafting high-performance, user-centric web applications.
 
-I have a knack for staying updated with the latest trends in front-end development, allowing me to create sleek and responsive interfaces. Proficient in Git, HTML, and CSS, I bring a comprehensive approach to development, ensuring code quality and adherence to industry standards.
+I stay at the forefront of the latest trends in both AI and front-end development, ensuring I create sleek, responsive, and efficient interfaces. Proficient in Git, HTML, and CSS, I bring a well-rounded approach to development, ensuring code quality and adherence to industry standards.
 
-My expertise extends to full-stack applications, where I've seamlessly integrated React, Next.js, Node.js, and MongoDB. I actively participate in code reviews, offering constructive feedback to foster a collaborative and growth-oriented environment.
+In addition to AI and front-end development, my expertise extends to full-stack applications, where I seamlessly integrate React, Next.js, Node.js, Supabase, and MongoDB. I actively participate in code reviews, offering constructive feedback that fosters collaboration and continuous improvement.
 
-My passion lies in optimizing website performance, and consistently enhancing speed and usability. I'm eager to contribute my skills to innovative projects and explore new opportunities in web development.
+My passion for optimizing website performance, coupled with my experience in building AI-driven solutions, drives me to deliver innovative, cutting-edge web applications.
 
-Let's connect and explore how we can collaborate on exciting ventures in the digital space.
+Let’s connect and explore how we can collaborate on projects that push the boundaries of web and AI technologies.
 
 - 🔭 I'm currently crafting cutting-edge AI agents.
 - 📫 You can reach to me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarvadn/)](https://www.linkedin.com/in/sagarvadn/)
