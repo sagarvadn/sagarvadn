@@ -1,5 +1,5 @@
 ### Hi there, I'm Sagar Vadnere. 👋
-I specialize in building intelligent AI agents using Large Language Models (LLMs) and Next.js, creating dynamic and agentic flows that offer personalized, interactive experiences. With over 8.6 years of experience as a Web Developer, I also have strong expertise in JavaScript, React, and Next.js, crafting high-performance, user-centric web applications.
+I specialize in building intelligent AI agents using Large Language Models (LLMs) and Next.js, creating dynamic and agentic flows that offer personalized, interactive experiences. With over 9 years of experience as a Web Developer, I also have strong expertise in JavaScript, React, and Next.js, crafting high-performance, user-centric web applications.
 
 I stay at the forefront of the latest trends in both AI and front-end development, ensuring I create sleek, responsive, and efficient interfaces. Proficient in Git, HTML, and CSS, I bring a well-rounded approach to development, ensuring code quality and adherence to industry standards.
 
